@@ -1,2 +1,2 @@
-# My_regression_project
+# My_Linear_regression_project
  
